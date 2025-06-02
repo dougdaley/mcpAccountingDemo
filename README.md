@@ -9,6 +9,14 @@ This MCP server enables AI assistants to interact with a double-entry accounting
 - Recording various types of transactions (cash sales, cash purchases, supplier invoices, customer bills)
 - Generating financial reports (profit & loss statements)
 
+## 📹 Demo Video
+
+Watch the MCP Accounting Ledger Server in action:
+
+https://github.com/dougdaley/mcpAccountingDemo/assets/AI%20Accounting%20with%20MCP%20server.mp4
+
+*This demo shows the complete workflow from setup to creating ledgers, recording transactions, and generating reports using the MCP server with Claude Desktop.*
+
 ## Features
 
 ### 🏢 Entity Management
