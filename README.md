@@ -40,7 +40,7 @@ Install uv
 ### Setup
 
 1. **Clone the repository**:
-   Clone this repository locally
+   Clone this repository locally and update config.toml with the path to your local project
    
 2. **Create the virtual environment**:
    ```bash
