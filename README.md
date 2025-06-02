@@ -13,7 +13,7 @@ This MCP server enables AI assistants to interact with a double-entry accounting
 
 Watch the MCP Accounting Ledger Server in action:
 
-https://github.com/dougdaley/mcpAccountingDemo/AI%20Accounting%20with%20MCP%20server.mp4
+[https://github.com/dougdaley/mcpAccountingDemo/AI%20Accounting%20with%20MCP%20server.mp4](https://github.com/dougdaley/mcpAccountingDemo/blob/0281de89730b2f7012323ff781e8f241b95dd637/AI%20Accounting%20with%20MCP%20server.mp4)
 
 *This demo shows the complete workflow from setup to creating ledgers, recording transactions, and generating reports using the MCP server with Claude Desktop.*
 
