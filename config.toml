@@ -1,5 +1,5 @@
 [database]
-url = "sqlite:////Users/douglasdaley/Documents/src/mcpTest/mcpServerDemo/test_accounting.db"
+url = "sqlite:///./ledger.db"
 
 [logging]
 level = "INFO"
